@@ -6584,6 +6584,7 @@ De to linjer forlænger med henblik på at løse to ligninger med hensyn til $x$
 8.
 $$
 a_2 b
+$$
 
 <div class = "pagebreak"></div>
 
