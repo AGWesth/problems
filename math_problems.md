@@ -62,4 +62,6 @@ Divide both sides by $-23$:
 Answer:  
 $m = \frac{-8}{23}$ or $m = \frac{34}{23}$
 
+## Test
 
+![Test figures](figures/math.png)
