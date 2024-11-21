@@ -1433,7 +1433,7 @@ $$x - \frac{1}{2} = \pm \frac{\sqrt{7}}{2}$$
 $$x = \frac{1}{2} \pm \frac{\sqrt{7}}{2}$$
 
 **Look at the first equation: Solve for x.**  
-$$x = \frac{1}{2} + \frac{\sqrt{7}}{2}$$ or $$x = \frac{1}{2} - \frac{\sqrt{7}}{2}$$  
+$x = \frac{1}{2} + \frac{\sqrt{7}}{2}$ or $x = \frac{1}{2} - \frac{\sqrt{7}}{2}$  
 
 **Express the intercepts as points in the Cartesian plane.**  
 The y-coordinate of an x-intercept point is 0:  
@@ -1471,7 +1471,7 @@ $$m - 3 = \pm \frac{9}{2\sqrt{2}}$$
 $$m = 3 \pm \frac{9}{2\sqrt{2}}$$  
 
 **Look at the first equation: Solve for m.**  
-$$m = 3 + \frac{9}{2\sqrt{2}}$$ or $$m = 3 - \frac{9}{2\sqrt{2}}$$  
+$m = 3 + \frac{9}{2\sqrt{2}}$ or $m = 3 - \frac{9}{2\sqrt{2}}$  
 
 **Express the intercepts as points in the Cartesian plane.**  
 The y-coordinate of an m-intercept point is 0:  
@@ -1512,3 +1512,4 @@ $$\frac{13a^5}{2} - \frac{29a^4}{3} - \frac{3a^3}{2} - \frac{53a^2}{8} + \frac{1
 
 **Answer:**  
 $$\frac{13a^5}{2} - \frac{29a^4}{3} - \frac{3a^3}{2} - \frac{53a^2}{8} + \frac{15a}{2} - \frac{17}{6}$$
+
