@@ -1,5 +1,4 @@
-﻿
-[Linux](#linux)
+﻿[Linux](#linux)
 [Python](#python)
 [Numpy](#numpy)
 [Pandas](#pandas)
