@@ -2,7 +2,7 @@
 
 [Wolfram complex numbers](#complex-numbers)
 
-[Wolfram Polynomiasl](#polynomials)
+[Wolfram Polynomials](#polynomials)
 
 # Absolute Values
 
