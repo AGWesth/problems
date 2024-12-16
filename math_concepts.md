@@ -1,10 +1,16 @@
 ﻿
 [Algebra](#algebra)
+
 [Geometry](#geometry)
+
 [Trigonometry](#trigonometry)
+
 [Calculus](#algebra)
+
 [Complex Numbers](#complex-numbers)
+
 [](#probability-and-statistics)
+
 
 
 <div class = "pagebreak"></div>
