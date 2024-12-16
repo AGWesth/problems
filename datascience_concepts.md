@@ -1,11 +1,17 @@
 ﻿[Linux](#linux)
+ 
 [Python](#python)
+
 [Numpy](#numpy)
 [Pandas](#pandas)
+
 [SymPy](#sympy)
 [MatplotLib](#matplotlib)
+
 [SciPy](#scipy)
+
 [Machine Learning](#machine-learning)
+
 
 <div class = "pagebreak"></div>
 
