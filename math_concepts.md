@@ -9,6 +9,8 @@
 
 [Complex Numbers](#complex-numbers)
 
+[Functions](#functions)
+
 [](#probability-and-statistics)
 
 
