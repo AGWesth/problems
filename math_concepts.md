@@ -5,7 +5,7 @@
 
 [Trigonometry](#trigonometry)
 
-[Calculus](#algebra)
+[Calculus](#calculus)
 
 [Complex Numbers](#complex-numbers)
 
