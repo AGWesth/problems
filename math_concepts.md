@@ -11,7 +11,7 @@
 
 [Functions](#functions)
 
-[](#probability-and-statistics)
+[Probability and Statistics(#probability-and-statistics)
 
 
 
