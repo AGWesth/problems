@@ -3,9 +3,11 @@
 [Python](#python)
 
 [Numpy](#numpy)
+
 [Pandas](#pandas)
 
 [SymPy](#sympy)
+
 [MatplotLib](#matplotlib)
 
 [SciPy](#scipy)
