@@ -11,7 +11,7 @@
 
 [Functions](#functions)
 
-[Probability and Statistics](#probability-and-statistics)
+[Math Through the ages](#math-through-the-ages)
 
 
 
