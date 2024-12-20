@@ -2477,3 +2477,402 @@
 
 # Math Through The Ages
 
+## How did Greek mathematics differ from earlier mathematical practices in Egypt and Babylon?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What is the significance of deductive reasoning in Greek mathematics?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What role did Thales play in the development of early geometry?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## How did Pythagoras contribute to the understanding of numbers and their relationships?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What are the defining features of Euclid’s Elements?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## How did the Greeks define the concept of "proof" in mathematics?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What contributions did Archimedes make to Greek mathematics?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## How were mathematics and philosophy interconnected in ancient Greece?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What tools or techniques did the Greeks develop to solve geometric problems?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## How did Greek mathematicians approach the study of irrational numbers?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## In what ways did the Greek concept of mathematics influence later civilizations?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## How did the Greeks use axioms in their mathematical systems?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What was the role of Platonic thought in shaping Greek mathematical ideas?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## How did Greek mathematicians address the concept of infinity?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What was Hippocrates of Chios known for in Greek mathematics?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## How did Greek mathematicians view the relationship between mathematics and the natural world?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What advancements in astronomy were influenced by Greek mathematics?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## How did Greek geometry influence modern algebra?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What methods did the Greeks develop for calculating areas and volumes?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## How did the library at Alexandria contribute to the preservation and dissemination of Greek mathematics?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## Who is credited with introducing deductive reasoning to mathematics?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What theorem is Pythagoras most famous for?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## Which ancient text by Euclid is considered a cornerstone of mathematical literature?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## Who was the Greek mathematician that calculated the value of pi with high precision?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What geometric principle did Thales use to calculate the height of the pyramids?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## Who developed the first systematic theory of conic sections?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What is the term for the Greek mathematical method of assuming a proposition to prove its contradiction?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## Who was the first to demonstrate that the square root of 2 is irrational?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What did Hippocrates achieve in terms of squaring lunes?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What Greek mathematician contributed significantly to hydrostatics?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## Who formalized the idea of axiomatic systems in mathematics?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What did Greek mathematicians call numbers that could not be expressed as a ratio of two integers?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## Who was responsible for proving that the volume of a sphere is two-thirds the volume of a cylinder containing it?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## Which mathematician from the Greek era was killed for refusing to leave his mathematical diagrams?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What was Plato’s view of mathematics’ role in understanding the universe?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What shape did the Greeks struggle to square using a compass and straightedge?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## Who translated many Greek mathematical texts into Arabic during the Islamic Golden Age?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What significant concept did Aristotle contribute to the philosophy of mathematics?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## Which Greek work first introduced the idea of mathematical "elements"?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What is the significance of the golden ratio in Greek mathematics and art?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## How did the development of writing contribute to the growth of mathematics?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What roles did scribes play in the early development of mathematics?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## How did centralized governments in ancient societies necessitate mathematical advances?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What is the significance of the Rhind Papyrus in understanding Egyptian mathematics?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## How did the Mesopotamian place-value system differ from modern numerical systems?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## In what ways did early mathematical practices address practical problems like measuring fields or calculating taxes?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What evidence exists of mathematical activity in prehistoric societies?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## How did early Egyptian and Babylonian methods for solving quadratic equations differ?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## Why is the Pythagorean Theorem significant in the context of early Indian and Chinese mathematics?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## How did ancient scribes use tables of constants and reciprocals in their computations?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What mathematical knowledge is suggested by the artifacts found in Africa dating back 37,000 years?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## How did the use of papyrus and clay tablets influence the preservation of ancient mathematical texts?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What role did "recreational" problems play in Babylonian mathematics?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## How did mathematical texts like "The Nine Chapters on the Mathematical Art" influence Chinese mathematics?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## In what ways did proportionality feature in early Chinese geometry and arithmetic?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What contributions did Indian Śulbasūtras make to geometry and numerical methods?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## How did the Silk Road facilitate mathematical exchanges between China and the West?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## Why was the development of fractions important in ancient Egyptian mathematics?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## How did mathematical practices reflect societal values, such as fairness and justice, in Babylonian culture?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What factors contributed to the decline of mathematical activity in Mesopotamia after the Old Babylonian period?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What materials were used by the Egyptians and Babylonians to record mathematical work?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## Which civilization is credited with developing a sexagesimal (base-60) numerical system?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What is the Rhind Papyrus, and why is it significant?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## How did Mesopotamian scribes represent numbers from 1 to 59?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What method did ancient Egyptians use to perform multiplication and division?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## Which early civilization approximated the area of a circle by using the formula $(\frac{9}{8}d)^2$?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What is the oldest known mathematical artifact, and where was it found?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## How were fractions expressed in Babylonian mathematics?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What is the significance of the Nine Chapters in the history of Chinese mathematics?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## How did Liu Hui contribute to the understanding of Chinese mathematical texts?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What is one example of a "recreational" mathematical problem from Babylonian texts?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What geometric shapes were Egyptian scribes able to calculate areas and volumes for?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What was the purpose of mathematical training in ancient scribal schools?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What mathematical methods were developed to address inheritance laws in ancient societies?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## How did Indian Śulbasūtras describe the Pythagorean Theorem?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What evidence of early mathematical practices exists in prehistoric Africa?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## How did the Chinese "out-in" method solve geometric problems?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## Which civilization’s mathematical texts included extensive computational tables?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## What event during the Qin Dynasty affected the preservation of early Chinese mathematical texts?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
+
+## How does the modern division of time into minutes and seconds reflect Babylonian mathematics?
+
+<div class = "pagebreak"></div>
+<div class = "pagebreak"></div>
